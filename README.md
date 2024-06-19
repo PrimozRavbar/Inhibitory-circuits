@@ -1,6 +1,10 @@
-The main model code for "Inhibitory circuits coordinate leg movements during Drosophila grooming" paper
-Allowes users to run the model and visualize the data, includin making movies
-New model instances can be evolved
+The main model code for "Inhibitory circuits coordinate leg movements during Drosophila grooming" paper.
+All the model functionality is in one file: Model_code.ipynb 
+
+The code allowes users to run the model and visualize the data, includin making movies.
+New model instances can be evolved.
+
+The current model files are: solution_MS, and population_MS. The files can be loaded to the main code (Model_code.ipynb)
 
 Code written by Primoz Ravbar (2024) for the paper authored by: Durafshan Sakeena Syed, Primoz Ravbar, Julie H Simpson
 
