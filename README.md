@@ -6,6 +6,8 @@ New model instances can be evolved.
 
 The current model files are: solution_MS, and population_MS. The files can be loaded to the main code (Model_code.ipynb)
 
+An example movie of the model is: Model_MS.avi
+
 Code written by Primoz Ravbar (2024) for the paper authored by: Durafshan Sakeena Syed, Primoz Ravbar, Julie H Simpson
 
 Paper link: https://www.biorxiv.org/content/10.1101/2024.06.05.597468v1.full
