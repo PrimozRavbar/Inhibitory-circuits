@@ -3,7 +3,7 @@ Durafshan Sakeena Syed, Primoz Ravbar, Julie H Simpson
 
 All the model functionality is in one file: Model_code.ipynb 
 
-The code allowes users to run the model and visualize the data, including making movies.
+The code allows users to run the model and visualize the data, including making movies.
 New model instances can be evolved.
 
 The current model files are: solution_MS, and population_MS. The files can be loaded to the main code (Model_code.ipynb)
