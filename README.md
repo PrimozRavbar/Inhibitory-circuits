@@ -1,4 +1,4 @@
-The code used for "Inhibitory circuits coordinate leg movements during Drosophila grooming" paper authored by: 
+The code used for "Inhibitory circuits generate rhythms for leg movements during Drosophila grooming" paper authored by: 
 Durafshan Sakeena Syed, Primoz Ravbar, Julie H Simpson
 
 Code written by Primoz Ravbar (2024) for the paper.
