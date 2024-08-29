@@ -23,4 +23,4 @@ The former is done by UMAP algorithm, and the latter is accomplished by agglomer
 Several alternative options are also included. 
 The UMAPs can be plotted and colored according to the behavioral features or cluster (class) membership.  
 
-Paper link: https://www.biorxiv.org/content/10.1101/2024.06.05.597468v1.full
+Paper link: https://www.biorxiv.org/content/10.1101/2024.06.05.597468v1.full](https://www.biorxiv.org/content/10.1101/2024.06.05.597468v2.full
