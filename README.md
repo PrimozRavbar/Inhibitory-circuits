@@ -12,7 +12,7 @@ The contents:
 This code allows users to run the model and visualize the data, including making movies.
 New model instances can be evolved.
 
-The current model files are: solution_MS, and population_MS. The files can be loaded to the main code (Model_code.ipynb)
+The current model files are: solution_MS, and population_MS. The files can be loaded to the main model code (model110_GH.ipynb)
 
 An example movie of the model is: Model_MS.avi  This movie is referenced as Video 1 in the paper.
 
