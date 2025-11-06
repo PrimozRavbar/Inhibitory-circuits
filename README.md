@@ -14,7 +14,7 @@ New model instances can be evolved.
 
 The current model file is: solution_elife5p0h_34w
 
-An example movie of the model is: Model_MS.avi  This movie is referenced as Video 1 in the paper.
+An example movie of the model is: video_solution_elife5p0h_34w.avi 
 
 ** Behavior data analysis code: Segment_classification_GH.ipynb
 
