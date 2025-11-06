@@ -1,13 +1,13 @@
 The code used for "Inhibitory circuits generate rhythms for leg movements during Drosophila grooming" paper authored by: 
 Durafshan Sakeena Syed, Primoz Ravbar, Julie H Simpson
 
-Code written by Primoz Ravbar (2024) for the paper.
+Code written by Primoz Ravbar (2025) for the paper.
 
 The contents:
 - model code
-- classification and dimensionality reduction code
+- data analysis code
 
-** All the model functionality is in one file: Model_code.ipynb 
+** All the model functionality is in one file: ELife_5p2.ipynb 
 
 This code allows users to run the model and visualize the data, including making movies.
 New model instances can be evolved.
